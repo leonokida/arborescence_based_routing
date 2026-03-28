@@ -1,0 +1,71 @@
+sao_paulo curitiba
+sao_paulo porto_alegre
+sao_paulo florianopolis
+sao_paulo brasilia
+sao_paulo belo_horizonte
+sao_paulo rio_de_janeiro 
+sao_paulo fortaleza 
+
+curitiba porto_alegre 
+curitiba florianopolis 
+curitiba campo_grande
+
+porto_alegre florianopolis 
+
+rio_de_janeiro brasilia 
+rio_de_janeiro belo_horizonte
+rio_de_janeiro vitoria
+
+belo_horizonte vitoria
+belo_horizonte brasilia
+belo_horizonte salvador 
+
+vitoria salvador 
+
+brasilia salvador 
+brasilia sao_luis 
+brasilia fortaleza
+brasilia palmas 
+brasilia cuiaba 
+brasilia porto_velho 
+brasilia goiania
+brasilia manau
+brasilia rio_branco
+
+goiania palmas
+goiania cuiaba
+
+cuiaba campo_grande 
+cuiaba porto_velho 
+
+porto_velho rio_branco
+
+palmas belem 
+
+salvador teresina 
+salvador fortaleza 
+salvador campina_grande
+salvador aracaju 
+
+aracaju maceio 
+
+maceio recife 
+
+recife campina_grande 
+recife joao_pessoa
+
+campina_grande joao_pessoa
+campina_grande natal 
+
+fortaleza natal 
+fortaleza teresina 
+
+teresina sao_luis
+
+sao_luis belem
+
+macapa belem 
+macapa manaus 
+
+boa_vista manaus
+boa_vista fortaleza

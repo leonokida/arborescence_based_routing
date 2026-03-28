@@ -1,0 +1,93 @@
+new_york hartford
+new_york philadelphia
+
+philadelphia baltimore
+
+hartford boston
+
+boston albany
+
+albany buffalo
+
+baltimore washington_dc
+baltimore ashburn
+
+pittsburgh ashburn
+
+cleveland pittsburgh
+cleveland buffalo
+cleveland toledo
+cleveland cincinatti
+
+cincinatti indianapolis
+cincinatti louisville
+
+chicago toledo
+chicago indianapolis
+chicago milwaukee
+chicago st_louis
+
+madison milwaukee
+
+minneapolis madison
+minneapolis kansas_city
+minneapolis fargo
+
+fargo bozeman
+
+missoula bozeman
+missoula spokane
+
+seattle spokane
+seattle olympia
+seattle boise
+
+portland olympia
+portland eugene
+
+sacramento eugene
+sacramento reno
+sacramento sunnyvale
+
+los_angeles sunnyvale
+los_angeles las_vegas
+los_angeles phoenix
+
+salt_lake_city reno
+salt_lake_city boise
+salt_lake_city las_vegas
+salt_lake_city denver
+
+phoenix tucson
+
+el_paso tucson
+el_paso albuquerque
+el_paso san_antonio
+
+denver albuquerque
+denver kansas_city
+
+houston san_antonio
+houston dallas
+houston jackson
+houston baton_rouge
+
+dallas tulsa
+
+kansas_city tulsa
+kansas_city st_louis
+
+jackson memphis
+
+nashville memphis
+nashville louisville
+nashville atlanta
+
+pensacola baton_rouge
+pensacola jacksonville
+
+atlanta jacksonville
+atlanta charlotte
+
+raleigh charlotte
+raleigh washington_dc
