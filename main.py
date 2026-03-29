@@ -12,7 +12,7 @@ from arborescence_generator.arborescence_generator import generate_arborescences
 def main():
     st.set_page_config(page_title="Arborescence-Based Routing", layout="wide")
     
-    st.title("Arborescence-Based Routes Display")
+    st.title("Arborescence-Based Routing")
     st.sidebar.header("Settings")
 
     # loads the file
