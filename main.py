@@ -103,6 +103,15 @@ def main():
 def graphical_visualization(G, routes, origin, destination, colors):
     """Renders the graph with the highlighted routes"""
     net = Network(height="600px", width="100%", bgcolor="#ffffff", font_color="black", directed=False)
+    net.set_options("""
+    var options = {
+        "nodes": {
+            "font": {
+                "size": 30
+            }
+        }
+    }
+    """)
     
     for node in G.nodes():
         color_no = "lightblue"
