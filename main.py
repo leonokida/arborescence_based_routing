@@ -1,6 +1,6 @@
 # Graphical user interface
 # Autor: Leon Okida
-# Last changes: 03/28/2026
+# Last changes: 03/30/2026
 
 import streamlit as st
 import networkx as nx
