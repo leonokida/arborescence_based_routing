@@ -92,7 +92,7 @@ def main():
     with st.expander("About"):
         st.markdown("""
 ## About the tool
-* This is an interactive tool that computates and displays **arborescence-based routes**.  
+* This is an interactive tool that computes and displays **arborescence-based routes**.  
 * The source code and the documentation are available [here](https://github.com/leonokida/arborescence_based_routing).
 ## Authors
 * Leon Okida | [laogoncalves@inf.ufpr.br](mailto:laogoncalves@inf.ufpr.br)
