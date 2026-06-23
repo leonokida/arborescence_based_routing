@@ -89,8 +89,8 @@ def main():
     else:
         st.info("Waiting for the upload of the input file.")
     
-    with st.expander("About"):
-        st.markdown("""
+
+    st.markdown("""
 ## About the tool
 * This is an interactive tool that computes and displays **arborescence-based routes**.  
 * The source code and the documentation are available [here](https://github.com/leonokida/arborescence_based_routing).
@@ -98,7 +98,13 @@ def main():
 * Leon Okida | [laogoncalves@inf.ufpr.br](mailto:laogoncalves@inf.ufpr.br)
 * André Vignatti | [vignatti@inf.ufpr.br](mailto:vignatti@inf.ufpr.br)
 * Elias P. Duarte Jr. | [elias@inf.ufpr.br](mailto:elias@inf.ufpr.br)
-        """)
+    """)
+    st.markdown("""
+## Example Inputs
+* [Internet2](https://raw.githubusercontent.com/leonokida/arborescence_based_routing/refs/heads/main/topologies/internet2.txt)
+* [RNP](https://raw.githubusercontent.com/leonokida/arborescence_based_routing/refs/heads/main/topologies/rnp.txt)
+* [Géant](https://raw.githubusercontent.com/leonokida/arborescence_based_routing/refs/heads/main/topologies/geant.txt)
+    """)
 
 def graphical_visualization(G, routes, origin, destination, colors):
     """Renders the graph with the highlighted routes"""
@@ -107,7 +113,7 @@ def graphical_visualization(G, routes, origin, destination, colors):
     var options = {
         "nodes": {
             "font": {
-                "size": 30
+                "size": 40
             }
         }
     }
